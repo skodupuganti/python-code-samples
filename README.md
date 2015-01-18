@@ -1,0 +1,3 @@
+Of the three samples one is a small program which simulates rock-paper-scissors-lizard-spock game, another is pong game. The pong game uses simplegui module which was specifically developed for the coursera python course and does not run on standard installations of python. It only runs in codeskulptor, web based python IDE also designed for the course and both of these are based on templates already provided in the class.
+ 
+The third one is a small simulation of air traffic control system which I developed for one of my class, for the class we coded the project in Cn (parallel version of c) and ran the code on an array of 96 processors. Here I have tried to simulate using list and loops.
